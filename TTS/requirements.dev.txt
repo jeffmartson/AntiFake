@@ -3,3 +3,4 @@ coverage
 isort
 nose2
 pylint==2.10.2
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
