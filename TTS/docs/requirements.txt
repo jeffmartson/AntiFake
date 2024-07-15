@@ -4,3 +4,4 @@ sphinx == 4.0.2
 sphinx_inline_tabs
 sphinx_copybutton
 linkify-it-py
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
